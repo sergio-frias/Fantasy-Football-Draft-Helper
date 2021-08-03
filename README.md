@@ -20,7 +20,7 @@ The main sites used for hosting fantasy football leagues and live drafts are ESP
 
 ## Description of the Project - Big Picture
 - I have created a list of the best available players
-- The list is constantly being displayed throughout the draft to keep the user updated
+- The top 10 available players are constantly being displayed throughout the draft to keep the user updated
 - The player rankings and draft advice are adjusted throughout the draft based on a few factors
   - Strategy
     - Example: I find the QB position to be the least important, so QB ratings are decreased during the early rounds of the draft
