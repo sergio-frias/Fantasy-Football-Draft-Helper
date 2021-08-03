@@ -1,7 +1,7 @@
 # Fantasy-Football-Draft-Helper
 
 ## Brief Background
-I am a sports loving person who has been playing fantasy football for about 10 years. I am also a skilled programmer. This project has been perfect marriage of the two.
+I am a sports loving person who has been playing fantasy football for about 10 years. I also enjoy programming. This project has been a perfect marriage of the two.
 
 ## What is Fantasy Football
 - A standard fantasy football league is made up of 10 teams
