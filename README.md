@@ -29,6 +29,4 @@ The main sites used for hosting fantasy football leagues and live drafts are ESP
   - Team Needs
     - Example: If the user team selects 2 RBs in the first 2 rounds, the rest of the available RBs receive a ratings decrease. This essentially boosts the ratings for the other positions in an effort to draft a well-balanced team.
 
-## Files
-
 
