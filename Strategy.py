@@ -42,14 +42,12 @@ class Strategy:
 
 
     def runAssessment(self, team, round):
-        if round == 1:
-            Strategy.R1(self, team)
-        elif round == 2:
+        if round == 2:
             Strategy.R2(self, team)
         elif round == 3:
             Strategy.R3(self, team)
         elif round == 4:
-            Strategy.R3(self, team)
+            Strategy.R4(self, team)
         else:
             return
 
